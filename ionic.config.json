@@ -1,0 +1,7 @@
+{
+  "name": "BookNoShow",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
